@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\bin\Debug\net8.0\product.exe
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\bin\Debug\net8.0\product.deps.json
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\bin\Debug\net8.0\product.runtimeconfig.json
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\bin\Debug\net8.0\product.dll
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\bin\Debug\net8.0\product.pdb
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.AssemblyInfo.cs
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.dll
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\refint\product.dll
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.pdb
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\product.genruntimeconfig.cache
+C:\Users\User\Desktop\מסלול\‏‏תיקיה חדשה\product\obj\Debug\net8.0\ref\product.dll
